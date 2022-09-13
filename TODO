@@ -1,0 +1,19 @@
+TODO
+
+CAPTURE SHAPES:
+show pointcloud stream from camera, reconstruct mesh and show in real time, create SDF of mesh, 
+
+EDIT SHAPES:
+load shape files, edit pointclouds, view changes in real time, 
+
+MARK CUTS:
+add cuts to mesh
+
+MARK ASSEMBLY:
+designate connections for assembly
+
+PREVIEW RUN:
+behavior trees for each job, show trajectories for each cut or assembly
+
+RUN ASSEMBLY:
+ICP match shape to camera feed, run cut motions, run assembly motions, GUI for play/stop, able to use encrypted c++ binaries for functionality
